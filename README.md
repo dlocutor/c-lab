@@ -1,4 +1,4 @@
-test
+VAST TESTS
 ====
 purely testing
 
