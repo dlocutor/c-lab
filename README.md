@@ -2,7 +2,7 @@ C-LAB TESTS
 ====
 pure testing
 
-dlocutor@gmail.com
-
-dfmiller@c-labs.org
-
+1. go
+2. stop
+3. backward
+4. forward
