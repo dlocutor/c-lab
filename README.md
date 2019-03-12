@@ -9,4 +9,5 @@ pure testing
 
 [Link](url) and ![Image](src)
 
-[crossfade.svg](crossfade.svg)
+![crossfade.svg](crossfade.svg)
+
