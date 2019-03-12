@@ -6,3 +6,7 @@ pure testing
 2. stop
 3. backward
 4. forward
+
+[Link](url) and ![Image](src)
+
+[crossfade.svg](crossfade.svg)
